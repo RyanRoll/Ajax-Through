@@ -1,4 +1,3 @@
-Ajax-Through
-============
 
-This is my first javascript SPA framework.
+
+written in antslab ( 2010 - 2011 ).
